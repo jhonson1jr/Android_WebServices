@@ -13,5 +13,6 @@ Inclui tela de Login com autenticação via POST e GET
 * Básico de PHP
 
 Diretório "Android" contém os arquivos PHP onde manipulamos o MySQL e o arquivo SQL do banco com a tabela o qual fazemos as alterações.
+Para emular o servidor, usei o software Xampp
 
 Projeto com comentários, publicado apenas para fins didáticos.
