@@ -12,4 +12,6 @@ Inclui tela de Login com autenticação via POST e GET
 * Java
 * Básico de PHP
 
+Diretório "Android" contém os arquivos PHP onde manipulamos o MySQL e o arquivo SQL do banco com a tabela o qual fazemos as alterações.
+
 Projeto com comentários, publicado apenas para fins didáticos.
