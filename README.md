@@ -2,6 +2,8 @@
 
 Projeto com CRUD completo no Android Studio consumindo Webservices com a biblioteca Retrofit2
 
+Inclui tela de Login com autenticação via POST e GET
+
 # Pré requisitos
 
 * Orientação a Objetos
